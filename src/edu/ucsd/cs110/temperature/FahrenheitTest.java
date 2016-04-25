@@ -1,5 +1,7 @@
 package edu.ucsd.cs110.temperature;
 
+import org.testng.annotations.Test;
+
 import static org.junit.Assert.*;
 
 /**
@@ -7,6 +9,7 @@ import static org.junit.Assert.*;
  */
 public class FahrenheitTest {
     private float delta = 0.001f;
+
     @Test
     public void testFahrenheit(){
         float value = 12.34f;

@@ -1,6 +1,9 @@
 package edu.ucsd.cs110.temperature;
 
+import org.testng.annotations.Test;
+
 import static org.junit.Assert.*;
+
 
 /**
  * Created by renu on 4/25/16.
