@@ -1,7 +1,6 @@
-# HEADER FOR MY GITHUB PROJECT
+[![Build Status](https://travis-ci.org/14renus/gittest.svg?branch=master)](https://travis-ci.org/14renus/gittest)
 
-## SUB HEADER
-
-***
-Code block for commands you may want users to type
-***
+# Travis CI Project with Junit
+----------
+The module above will show whether your most recent Travis CI
+build has passed or failed the Junit tests. 
