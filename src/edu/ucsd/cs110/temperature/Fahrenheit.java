@@ -25,7 +25,7 @@ public class Fahrenheit extends Temperature {
     public String toString()
     {
         // TODO: Complete this method
-        return Float.toString(value);
+        return "" + getValue() + " F";
     }
 }
 
